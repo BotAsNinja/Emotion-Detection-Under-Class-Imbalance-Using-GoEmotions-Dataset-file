@@ -172,4 +172,4 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
 
 Additional Notes: 
 
-The link provided at the end of the code requires the colab to run.
+The link provided at the end of the code requires to be run in google colab to generate a new valid link to test out the AI.
