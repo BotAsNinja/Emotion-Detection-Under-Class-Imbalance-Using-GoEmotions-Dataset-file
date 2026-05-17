@@ -1,3 +1,8 @@
+# GoEmotions
+
+**GoEmotions** is a corpus of 58k carefully curated comments extracted from Reddit,
+with human annotations to 27 emotion categories or Neutral.
+
 # GoEmotions Fine Tuned RoBERTa Architecture with 3 Experimental Setups
 
 This notebook fine-tunes a pretrained RoBERTa checkpoint on the GoEmotions multi-label emotion dataset and compares three imbalance-handling strategies:
@@ -71,4 +76,6 @@ The notebook installs the packages it needs directly in Colab:
 * `gradio`
 
 ## Notes
+
 This README is for the RoBERTa notebook workflow, not the original dataset repository documentation. The notebook uses the GoEmotions labels and data layout, but the training pipeline is specific to the fine-tuned RoBERTa experiments.
+
